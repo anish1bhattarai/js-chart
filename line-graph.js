@@ -1,5 +1,5 @@
 // JavaScript Document
-var obj=[1000,6000,3000,2000,4000,5000,1000,680];
+var obj=[1000,6000,3000,2000,4000,5000,1000,680,1200,5000];
 var head=[" ", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug","Sep", "Oct", "Nov", "Dec"]
 var mycan=document.getElementById("line-chart");
     //mycan.style.backgroundColor="red";
